@@ -10,7 +10,7 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Breaker {
 	public static void main(String[] args) throws Exception {
-		//Method 1
+		//Method 1 
 		/*
 		 * Using Reflection API to break the singleton pattern
 		 * Solution: 1->If object is there ==> throw exception from inside constructor
