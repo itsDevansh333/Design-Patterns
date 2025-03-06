@@ -46,7 +46,7 @@ It contains:
 ## Design Overview
 The following diagram explains the structure visually:
 
-![Builder Pattern Design](image.png)
+
 
 ---
 
